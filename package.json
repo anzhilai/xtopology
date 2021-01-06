@@ -14,7 +14,7 @@
     "@topology/layout": "^0.3.0",
     "@topology/sequence-diagram": "^0.2.24",
     "antd": "3.26.7",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "file-saver": "^2.0.2",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
